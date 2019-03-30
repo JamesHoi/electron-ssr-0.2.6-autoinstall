@@ -5,7 +5,7 @@ electron-ssr releases: https://github.com/erguotou520/electron-ssr/releases
 
 How to Install
 -----------
-`git clone https://github.com/JamesHoi/electron-ssr-0.2.6-autoinstall`  
+`git clone https://github.com/JamesHoi/electron-ssr-0.2.6-autoinstall.git`  
 `cd electron-ssr-0.2.6-autoinstall`  
 `chmod +x install.sh`  
 `./install.sh`  
