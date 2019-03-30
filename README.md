@@ -6,5 +6,5 @@ electron-ssr releases: https://github.com/erguotou520/electron-ssr/releases
 How to Use
 -----------
 use these commands in centos:  
-chmod +x install.sh  
-./install.sh  
+`# chmod +x install.sh`
+`# ./install.sh`  
